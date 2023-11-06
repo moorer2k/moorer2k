@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">As a seasoned software developer specializing in the .NET framework and VB.NET since its VB4 days, I've curated a vast and varied portfolio of applications for Windows and Linux. While my GitHub repository doesn't encompass all of my projects, it does occasionally get updated with useful creations born out of sporadic bursts of inspiration. Balancing my passion for development with being a father to two young children, my time is more precious and limited than ever. My deep understanding of reverse engineering and network protocols, sharpened by a past legal entanglement involving computer hacking, has only enriched my professional expertise.</h5>
+<p align="left">As a seasoned software developer specializing in the .NET framework and VB.NET since its VB4 days, I've curated a vast and varied portfolio of applications for Windows and Linux. While my GitHub repository doesn't encompass all of my projects, it does occasionally get updated with useful creations born out of sporadic bursts of inspiration. Balancing my passion for development with being a father to two young children, my time is more precious and limited than ever. My deep understanding of reverse engineering and network protocols, sharpened by a past legal entanglement involving computer hacking, has only enriched my professional expertise.</h5>
 
 ###
 
